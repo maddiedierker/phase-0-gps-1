@@ -1,1 +1,7 @@
-Making a change on master... 
+*Italic!*
+**Bold**
+`code block`
+[Link](https://www.google.com)
+
+Creating a conflict! Woo hoo! 
+
